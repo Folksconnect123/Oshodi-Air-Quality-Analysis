@@ -1,2 +1,12 @@
 # Oshodi-Air-Quality-Analysis
-A model based on Time Series that is used to predict the quality of air
+Using Machine Learning Model to predict the Air-Quality in Oshodi, Lagos Nigeria
+
+
+#Acknowledgement
+The datasets used in this model was retrieved from https://africaopendata.org/dataset/sensorsafrica-airquality-archive-oshodi-lagos
+
+The estimator used to predict the air-quality was Autoregressive Integrated Moving Average (ARIMA)
+
+I wasn't able to use the appropiate hyper-parameter to fine tune the model as at now in which i was typing the read.me file and this was due to the less computational power of my PC. As a result of this our model is not able to generalize well on unseen data. 
+
+
